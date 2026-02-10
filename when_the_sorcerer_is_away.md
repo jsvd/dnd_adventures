@@ -796,7 +796,6 @@ The party reaches **level 3**. They've completed a two-part adventure, navigated
 | Spectator | 1 × Confused Spectator | Hard (variable) | Fight or parley |
 | Resolution | — | — | Advocate for Kenku, give helm → emotional climax |
 
-\column
 
 {{note
 ##### Teaching Moments Summary
@@ -812,6 +811,8 @@ The party reaches **level 3**. They've completed a two-part adventure, navigated
 | Part 2, Act 3 | Roleplay, creative communication |
 | Part 2, Act 4 | Boss fights, skill challenges |
 }}
+
+\column
 
 ## Closing Notes
 
@@ -899,8 +900,6 @@ If the spectator drops the entire party, it does **not** kill unconscious PCs. I
 **Voice:** Mimicry only. Fragments of the sorcerer's recorded voice, sounds collected over years, the voices of the dead. Communicates through tone, sequence, and gesture as much as sound.
 
 **Role:** The party's window into the Kenku's story. Their bridge to earning trust.
-
-\column
 
 ## The Fledgling
 *The Child*
@@ -1012,7 +1011,7 @@ Use the standard **Spectator** stat block with the following modifications based
 | **None** | No modifications; spectator fights at full power |
 | **Partial** | Wastes first turn; disadvantage on Bite attacks |
 | **Full** | Wastes first turn; disadvantage on Bite AND Eye Ray attacks |
-
+::
 {{note
 ##### Roleplaying the Spectator
 The spectator isn't evil. It's been tricked, confused, and is now deeply suspicious of everyone. It genuinely believes it's protecting the manor.
@@ -1023,7 +1022,7 @@ What works: Evidence. Showing it the Kenku bodies. Explaining the timeline. Demo
 
 What doesn't work: Lying. Claiming to speak for the sorcerer. Using the sorcerer's name as a password.
 }}
-
+::
 {{monster,frame
 ## Confused Spectator
 *Medium Aberration, Lawful Neutral*

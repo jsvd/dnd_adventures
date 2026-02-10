@@ -35,23 +35,20 @@ The adventure prioritizes clear structure with defined goals, escalating stakes 
 
 # Introduction
 {{note
-##### What You Need
-- The 2024 Player's Handbook and Monster Manual (or SRD equivalents)
-- The stat blocks referenced in the appendices
-- Maps or theater-of-the-mind descriptions
-}}
+##### At a Glance
+**Players:** 4–5 | **Levels:** 1 → 3 | **Duration:** ~6 hours (two sessions)
+:
+**You need:** 2024 Player's Handbook and Monster Manual (or SRD equivalents), the stat blocks in Appendix B, and maps or theater-of-the-mind descriptions. See **Appendix A** for full NPC details.
 
-##### Session Breakdown
 | Session | Content | Levels | Duration |
 |:-------:|:--------|:------:|:--------:|
-| Part 1 | Festival in Chaos | 1 → 2 | 2.5-3 hours |
-| Part 2 | The Chaotic Manor | 2 → 3 | 2-3 hours |
+| Part 1 | Festival in Chaos | 1 → 2 | 2.5–3 hours |
+| Part 2 | The Chaotic Manor | 2 → 3 | 2–3 hours |
 
 A long rest occurs naturally between parts via the manor's nightfall lockdown.
+}}
 
-## Adventure Overview
-
-### The Premise
+## The Premise
 
 A reclusive sorcerer left his manor yesterday morning, the first time in years. Without his presence to stabilize them, his self-running enchantments have been degrading since. Unknown to anyone, a small group of Kenku broke into the manor that same evening, seeking help for a curse that has stolen their voices. Their presence accelerated the chaos, panicked the manor's guardian, and left them trapped inside. Today, the enchantments have fully broken loose, spilling animated objects into the village festival.
 
@@ -66,36 +63,6 @@ The adventure moves through three tonal phases:
 **Creeping tension** (Part 1, Acts 3-5; Part 2, Acts 1-3): Something is wrong at the manor, someone else is inside, the house is hostile.
 
 **Moral complexity and emotional payoff** (Part 2, Acts 4-5): The Kenku aren't villains, the spectator isn't evil, and the resolution depends on the party's choices.
-
-\column
-
-## Key NPCs
-
-### The Sorcerer
-
-**Aldric Vorn** never appears until the climax of Part 2. His reputation carries the weight of Part 1, and his absence is the premise of the entire adventure.
-
-***What the villagers know:*** A recluse who helps the village but keeps to himself. Left yesterday for the first time in years. Things have been off since. (See Part 1 for the full reputation.)
-
-***What he is:*** A level 10 sorcerer and former adventurer who built a self-sustaining home so he'd never have to deal with crises. Lonely, kind, and completely unprepared for what his absence unleashed.
-
-### The Kenku
-
-Four Kenku broke into the manor the evening the sorcerer left. They came for the fledgling, a young Kenku who has never spoken an original word. They'd heard rumors of a sorcerer who studies enchantments, and hoped he might understand curses. They came for hope.
-
-One is dead, killed by the rug. One is dying, wounded by the spectator and clinging to life.
-
-Two survive: one adult and the fledgling. They've been trapped in the cellar since that night, silent, waiting.
-
-They are not villains. They are people who took a risk for someone they love. How the party treats them shapes the adventure's climax.
-
-### The Spectator
-
-The spectator has served the sorcerer for thirty years. It guards the manor. That's its purpose.
-
-When the Kenku broke in, it did its job. It badly wounded one of them. The others escaped by mimicking the sorcerer's voice, playing back recordings to make the spectator hesitate. The spectator heard its master say "stand down," and it paused. The Kenku ran.
-
-Now it's hunting. It's also confused. It doesn't know what to trust. If it hears the sorcerer's voice again, some part of it still hesitates. That confusion is the party's opportunity, and the Kenku's weapon.
 
 {{pageNumber,auto}}
 {{footnote INTRODUCTION}}
@@ -167,6 +134,11 @@ One broom trails a large black feather caught in its bristles. It's too big to b
 
 Players won't know what this means yet.
 }}
+:
+{{note
+##### Class Spotlight: Fighter / Barbarian
+Multiple weak enemies swarming civilians. Melee characters shine here — they can protect bystanders, use crowd control, and deal with the swarm through raw damage output.
+}}
 
 ***Evidence.*** Each broom handle is stamped with a crest: a tower encircled by stars. Any villager confirms it: that's the sorcerer's mark.
 
@@ -185,16 +157,35 @@ Marta offers **50 gold** from the village fund, plus whatever the sorcerer himse
 
 ## Act 2: The Road
 
-No combat here. Pure foreshadowing and atmosphere.
-
-The road to the manor climbs through orchards and fields. The afternoon light turns golden as the party walks. Birds avoid the trees nearest the hill. The air hums faintly, like standing near a storm.
+The road to the manor climbs through orchards and fields. The afternoon light turns golden. Birds avoid the trees nearest the hill. The air hums faintly, like standing near a storm.
 
 {{descriptive
 ##### Read Aloud
 The road narrows as it climbs. Apple trees line both sides, heavy with fruit no one has picked. The wind dies. Even your footsteps sound muffled.
 
-Ahead, you see a scarecrow in the field. It's turned toward you. Its burlap head follows as you walk.
+Then you hear footsteps coming *down*. A man rounds the bend — old, stooped, hauling a sack over one shoulder. He freezes when he sees you.
 }}
+
+### Encounter: Harlan Briggs
+:
+**Harlan Briggs** is a tenant farmer who works the sorcerer's lower fields. He's heading *away* from the manor, fast, and he doesn't want to talk about why.
+
+**Personality:** Stubborn, frightened, embarrassed. He doesn't want to admit he's scared. He's been laughed at before.
+
+**What he knows** (and will share with persuasion):
+
+| Information | DC | What He Says |
+|:------------|:--:|:-------------|
+| The sorcerer left | Free | "He walked out at dawn. First time in years. Then the tools went mad." |
+| Something's in the manor | DC 10 Persuasion | "I heard screaming up there last night. Not human screaming." |
+| He saw the Kenku | DC 12 Persuasion or Insight | "Crow-men. Three nights ago on this road. I told the village. Everyone thought I was drunk." |
+| He's afraid | DC 13 Insight | He won't say it outright, but he's terrified. His hands are shaking. |
+
+***If the party helps or reassures him:*** He warns them about the scarecrows — "They've been twitchy since the sorcerer left. Don't make sudden moves." This gives the party advantage on initiative for the scarecrow fight in Act 3.
+
+***If the party ignores or threatens him:*** He hurries away. No bonus.
+
+\column
 
 ### Environmental Clues
 
@@ -205,22 +196,19 @@ Ahead, you see a scarecrow in the field. It's turned toward you. Its burlap head
 | Broken lockpick in grass | 13 | Someone came prepared for a break-in |
 | Claw marks on fence post | 14 | Something fled back toward the manor |
 
-These clues plant seeds for Part 2. Players who gather them will piece together the Kenku intrusion before they meet the survivors.
+### Garden Tools
 
-### Option: Garden Tools
-
-As the party climbs, animated garden tools flee past them (a rake, a hoe, a watering can) hurrying *away* from the manor. They're not hostile. They're fleeing.
-
-If the party tries to stop them, they struggle past without attacking, just desperate to get away. The watering can "whimpers" (sloshing pathetically).
-
-This foreshadows that something inside the manor is worse than the objects themselves.
+As the party climbs, animated garden tools flee past them — a rake, a hoe, a watering can — hurrying *away* from the manor. They're not hostile. They're fleeing. The watering can "whimpers" (sloshing pathetically). Something inside the manor is worse than the objects themselves.
 
 {{note
-##### Short Rest?
-If the party is struggling (multiple characters at half HP or below, key abilities spent), offer a short rest on the road. The walk is long enough to justify one. Don't volunteer it if the party is healthy.
+##### Class Spotlight: Bard / Rogue
+Social skills drive this encounter. Persuasion and Insight unlock Harlan's information. A Rogue's keen observation catches his shaking hands; a Bard's reassurance earns the scarecrow warning.
 }}
 
-\column
+{{pageNumber,auto}}
+{{footnote PART 1 | FESTIVAL IN CHAOS}}
+
+\page
 
 ## Act 3: The Scarecrow
 
@@ -254,13 +242,15 @@ It lurches forward.
 
 {{note
 ##### Teaching Moment: Saving Throws
-This fight introduces the Frightened and Paralyzed conditions via Terrifying Glare. Pause before the first use to explain what's about to happen. "Its eyes flicker. Everyone, this is a Wisdom saving throw. Here's how that works."
+This fight introduces the Frightened and Paralyzed conditions via Terrifying Glare. Pause before the first use to explain what's about to happen. "Its eyes flicker — everyone, this is a Wisdom saving throw. Here's how that works."
+}}
+:
+{{note
+##### Class Spotlight: Wizard / Sorcerer
+Fire vulnerability makes casters shine. An Arcana check (DC 13) reveals the destabilizing enchantment — spellcasters can exploit the glitch where martial characters cannot.
 }}
 
-{{pageNumber,auto}}
-{{footnote PART 1 | FESTIVAL IN CHAOS}}
-
-\page
+\column
 
 ## Act 4: The Manor Gate
 
@@ -278,6 +268,7 @@ The armor's helmet turns toward you. It raises one gauntleted hand.
 
 **"Entry. Suspended."**
 }}
+
 
 ### Encounter: The Gate Guardians
 
@@ -301,8 +292,16 @@ The armor's helmet turns toward you. It raises one gauntleted hand.
 ##### Teaching Moment: Multiple Enemies
 This fight introduces action economy and positioning. The sword is fragile but mobile; the armor is tough but slow. Reward players who split their attention appropriately.
 }}
+:
+{{note
+##### Class Spotlight: Rogue / Artificer
+Investigation to find the armor's weak joint, Athletics to climb the wall, thieves' tools on the gate mechanism. Rogues and tinkerers have multiple ways to bypass or undermine this fight.
+}}
 
-\column
+{{pageNumber,auto}}
+{{footnote PART 1 | FESTIVAL IN CHAOS}}
+
+\page
 
 ## Act 5: Nightfall Lockdown
 
@@ -326,25 +325,20 @@ You are locked out until morning.
 ### The Night Scene
 
 The party cannot enter the manor until dawn. This is intentional: a natural long rest, a chance to process the day's events, and an opportunity for atmosphere.
-
+:
 ***What they hear:***
 - Movement inside. Heavy footsteps on the second floor.
 - A crash. Glass breaking.
 - Voices, not words, but sounds. Something mimicking speech.
 - Then silence. Long, heavy silence.
 
+:
 ***What they can learn:***
 - The manor's lockdown is defensive, not hostile. It protects what's inside.
 - Someone else is in the manor. Someone who got in before the lockdown.
 - The voices they heard weren't human. They weren't quite animal either.
 
-An old farmer who lives nearby can provide context if the party seeks him out: "He built it to need no one." And, if pressed: "I saw crow-men on the road the other night. Everyone thought I was drunk."
-
-{{pageNumber,auto}}
-{{footnote PART 1 | FESTIVAL IN CHAOS}}
-
-\page
-
+\column
 ## Dawn
 
 {{descriptive
@@ -360,35 +354,15 @@ The party reaches **level 2**. They've completed a long rest. They enter fresh, 
 
 ## Part 1 Summary
 
-### Encounters
+| Scene | Monsters | Difficulty | Key Clues |
+|:------|:---------|:----------:|:----------|
+| Broom Brigade | 5 × Animated Broom | Easy | Black feather in bristles |
+| The Road | NPC encounter (Harlan Briggs) | — | Feathers, tracks, broken lockpick, claw marks |
+| Scarecrow | 1 × Malfunctioning Scarecrow | Medium | Malfunctioning enchantment |
+| Manor Gate | 1 × Animated Armor + 1 × Flying Sword | Medium | Claw-damaged guardians |
+| Lockdown | — | — | Mimicked voices inside |
 
-| Scene | Monsters | Difficulty |
-|:------|:---------|:----------:|
-| Broom Brigade | 5 × Animated Broom | Easy |
-| Road | 1 × Malfunctioning Scarecrow | Medium |
-| Manor Gate | 1 × Animated Armor + 1 × Flying Sword | Medium |
-
-\column
-
-### Clues Planted
-
-| Clue | Location | Payoff |
-|:-----|:---------|:-------|
-| Black feather in broom | Festival | Kenku were at the manor |
-| Feathers in brambles | Road | Confirms multiple Kenku |
-| Three-toed tracks | Road | Non-human intruders |
-| Broken lockpick | Road | They came prepared to break in |
-| Claw marks on post | Road | Something fled inside |
-| Damaged guardians | Manor gate | Someone fought through |
-| Mimicked voices | Lockdown scene | Kenku are inside |
-
-### Key NPCs
-
-| Name | Role | Function |
-|:-----|:-----|:---------|
-| Marta Vess | Village Reeve | Quest-giver, exposition |
-| Old Farmer | Witness | Foreshadows Kenku |
-| Aldric Vorn | The Sorcerer | Stakes through reputation |
+**Key NPCs:** Marta Vess (quest-giver), Harlan Briggs (road encounter, witness), Aldric Vorn (reputation). See **Appendix A**.
 
 {{pageNumber,auto}}
 {{footnote PART 1 | FESTIVAL IN CHAOS}}
@@ -420,19 +394,16 @@ The party enters the manor at dawn. Inside, they find evidence of a desperate in
 
 ## The Timeline
 
-**Two days ago (Day 1):**
+Four Kenku broke in seeking help for a cursed fledgling who has never spoken an original word. The manor's defenses killed one and badly wounded another. The survivors used mimicry — replaying the sorcerer's recorded voice — to confuse the spectator and escape to the cellar. Now the spectator trusts no voice, and it's hunting.
 
-***Morning.*** The sorcerer leaves the manor, heading toward the city.
-
-***Evening.*** Four Kenku break in through the forced gate. They came for the fledgling, a young Kenku who has never spoken an original word. They'd heard rumors of a sorcerer who studies enchantments, and hoped he might understand curses. The rug catches one of them in the foyer. Dead before the others can react. They damage the rug but don't kill it, fleeing deeper into the manor. They search for hours but find nothing that helps.
-
-***Nightfall.*** The manor locks down. The spectator detects the intruders.
-
-***The chase.*** The Kenku use mimicry to survive, replaying the sorcerer's recorded voice to make the spectator hesitate. "Stand down." "It's me." The spectator hears its master's voice and pauses. The Kenku run. Near the upper hallway, the spectator corners one of them. The adult fights back, buying time for the others to escape, but takes deep wounds and collapses. The manor's ambient magic keeps it barely alive. The survivors (one adult and the fledgling) find the cellar bolt-hole. The door seals behind them. They can't open it from inside.
-
-**Yesterday (Day 2):** The Kenku stay silent. No mimicry, no sounds. They wait. The spectator patrols, confused and aggressive. Late in the afternoon, the party arrives at the manor and fights through the gate guardians. At nightfall, the manor locks down again.
-
-**Now (Day 3, dawn):** The party enters. The spectator is on edge: intruders before, intruders now. It's hunting.
+| When | What Happened | Evidence the Party Finds |
+|:-----|:--------------|:-------------------------|
+| 2 days ago | 4 Kenku break in through the gate | Damaged gate, claw marks on armor |
+| 2 days ago | Rug kills one Kenku in the foyer | Body in rug, black feathers |
+| 2 days ago | Spectator leaves one dying in the upper hallway | Dying Kenku against wall, gouged wallpaper |
+| 2 days ago | 2 survivors flee to the cellar bolt-hole | Sealed door, faint sounds |
+| Yesterday | Kenku go silent, wait | Nothing — silence is the clue |
+| Now (dawn) | Party enters, spectator is on edge | — |
 
 \column
 
@@ -464,6 +435,11 @@ Black feathers are scattered across the marble floor. A broken shortsword lies n
 This fight reinforces the grapple and restrain mechanics from the rug's smother attack. Remind players they can use the Help action to assist an ally in escaping, or attack the rug to force it to release.
 }}
 
+{{note
+##### Class Spotlight: Fighter / Barbarian
+Grapple escape and raw damage output. High-Strength characters can break free and destroy the rug while others struggle. Rage damage resistance also helps a grappled barbarian survive.
+}}
+
 {{pageNumber,auto}}
 {{footnote PART 2 | THE CHAOTIC MANOR}}
 
@@ -471,41 +447,68 @@ This fight reinforces the grapple and restrain mechanics from the rug's smother 
 
 ## Act 2: Exploration
 
-The party moves through the manor. The foyer's twin staircases curve upward to a landing. Hallways branch to sitting rooms, a dining room, a kitchen. Everything is still. Dust motes hang in the morning light.
+The foyer's twin staircases curve upward to a landing. Hallways branch left and right. Everything is still. Dust motes hang in the morning light.
 
-From somewhere above, faintly: a rhythmic tapping against wood.
+There are **two routes to the cellar** where the Kenku are trapped:
 
-The ground floor rooms are along the way to the staircases. Let the party explore naturally; the sounds are distant enough not to override curiosity about the rooms they pass through, but persistent enough to pull them upstairs eventually.
+| Route | Path | Risk |
+|:------|:-----|:-----|
+| **A: Kitchen** | Foyer → Dining Room → Kitchen → Cellar stairs | Direct, but passes the spectator's patrol |
+| **B: Secret Passage** | Foyer → Study → Hidden passage behind bookcase → Cellar (different entrance) | Quieter, but requires DC 14 Investigation (automatic if they read the sorcerer's notes carefully) |
 
-### Environmental Storytelling
+The party doesn't know the routes yet — they discover them through exploration. Both lead to Act 3.
 
-***Signs of the Kenku's passage:***
-- Disturbed dust on shelves, as if someone searched them quickly
-- Claw marks on a bannister where something gripped and fled
-- A ransacked drawer in the sitting room: papers scattered, nothing taken
-- Black feathers caught in door hinges, on stair railings, near windows
+### The Spectator: Roaming Threat
 
-***The sorcerer's personality:***
-- Half-finished projects on workbenches: a music box with no song, a mirror that reflects the wrong room
-- Books on enchantment theory, planar mechanics, arcane linguistics
-- Kind details: a bowl of treats left out for mice, notes reminding himself to "check on the village"
-- Lonely details: a single chair at the dining table, letters written but never sent
+The spectator patrols the manor rather than waiting at a fixed point. When the party makes noise (combat, loud conversation, breaking objects), roll or choose from the table below.
 
-### The Study
+##### Spectator Location
+| d4 | Location |
+|:--:|:---------|
+| 1 | First-floor landing, overlooking the foyer |
+| 2 | Upper hallway, near the dying Kenku |
+| 3 | Kitchen, blocking the direct cellar route |
+| 4 | Ground-floor corridor, between study and dining room |
 
-Scattered papers on enchantment mechanics. Half-finished diagrams. A workbench cluttered with components.
-
-A tarnished bronze helm sits in a glass case nearby, gathering dust. A small label reads: "Helm of Telepathy. Projects thought directly." One of many items the sorcerer collected during his adventuring years and never found a use for.
+The spectator moves every 10 minutes (or when the party triggers noise). If the party is cautious (Stealth DC 12 for the group), they can avoid it. If they encounter it early, it delivers its warning telepathically — **"You will explain yourselves. Or you will be removed."** — then moves on, giving them one chance before attacking. The full confrontation happens in Act 4.
 
 \column
 
-### The Dying Kenku
+### Ground Floor Rooms
 
-The sounds lead upstairs. On the first floor, near the upper hallway: claw marks gouged into the walls. A Kenku slumped against the baseboard, wounds across its chest. Still breathing, barely.
+**Sitting Room.** Papers scattered, a ransacked drawer — the Kenku searched here. A drawer near the window hums faintly. A minor alarm enchantment is wired to it (DC 12 Perception to hear the hum, DC 12 Arcana or thieves' tools to disarm). Opening it without disarming triggers a chime audible throughout the ground floor — roll on the Spectator Location table.
+
+**Dining Room.** A single chair at a long table. Letters written but never sent. If anyone sits in the chair, it animates briefly — scooting itself in, adjusting posture, offering a napkin from its armrest. Not hostile, just startling. Foreshadows the enchantments' helpful intent.
+
+**Kitchen.** An enchanted kettle sits on the cold stove. If anyone approaches, it heats itself and pours a cup of tea. Accepting triggers a recorded voice — the sorcerer's, warm and distracted: *"Welcome home. The cellar stores are stocked if you need anything. I'll be in the workshop."* This voice is useful later: the Kenku can mimic it, and the spectator recognizes it.
+
+**Study.** Scattered papers on curse theory and enchantment mechanics. The party finds the sorcerer's research notes:
+
+{{descriptive
+##### The Sorcerer's Notes
+*"The Kenku curse fascinates me. Not the cruelty of it — that's common enough among divine punishments — but the specificity. They lost their voices, yes. But they kept their minds. They can think original thoughts. They simply cannot express them.*
+
+*Telepathy bypasses vocalization entirely. If a Kenku could project thought directly, would the curse recognize it as speech? Or would it slip through?*
+
+*Theoretical. I have no Kenku to test this on, and no reason to seek one out."*
+}}
+
+The notes also reference *"the passage behind the third shelf — I really must fix that latch."* A DC 14 Investigation check on the bookcase reveals the hidden passage to the cellar. Characters who read the notes carefully find it automatically.
+
+{{pageNumber,auto}}
+{{footnote PART 2 | THE CHAOTIC MANOR}}
+
+\page
+
+### First Floor
+
+The party must visit the first floor — the Helm of Telepathy is here, not in the ground-floor study.
+
+**Upper Hallway — The Dying Kenku.** Claw marks gouged into the walls. A Kenku slumped against the baseboard, wounds across its chest. Still breathing, barely.
 
 {{descriptive
 ##### Read Aloud
-The hallway ends in violence. Deep gouges score the wallpaper, four parallel lines, again and again, as if something with claws fought desperately here. A figure lies crumpled against the wall. Another Kenku. This one didn't fall running. The wounds face forward. It fought something off.
+The hallway ends in violence. Deep gouges score the wallpaper — four parallel lines, again and again, as if something with claws fought desperately here. A figure lies crumpled against the wall. Another Kenku. This one didn't fall running. The wounds face forward. It fought something off.
 
 It's still alive. Its breathing is shallow and wet. One eye opens as you approach.
 }}
@@ -514,15 +517,15 @@ The Kenku is beyond saving. The wounds are over a day old and too severe for low
 
 If the party speaks to it or stays near, the Kenku's beak opens. It mimics: a small chirp, a fledgling's voice, unmistakably a child. Then, faintly, in a voice borrowed from one of its companions: *"For her."*
 
-One clawed hand lifts, trembling, and points toward the stairs leading down.
+One clawed hand lifts, trembling, and points toward the stairs leading down. It dies.
 
-It dies.
+**Workshop.** Half-finished enchantment projects cover the workbenches: a mirror that reflects the wrong room, a pen that writes what you're thinking, and a **music box with no song**. A DC 13 Arcana check activates the music box — it plays a haunting melody the spectator recognizes. A character carrying the activated music box has **advantage on one Persuasion check** during the spectator parley in Act 4.
 
-The party now knows someone else is alive in this manor. Someone small. The Kenku in the cellar don't know their companion held on this long.
+A tarnished bronze helm sits in a glass case on the far workbench, gathering dust. This is the **Helm of Telepathy** — the adventure's key item.
 
 {{note
-##### Teaching Moment: Environmental Storytelling
-No dice rolls required here, just observation, inference, and emotional stakes. The dying Kenku gives the party something a dead body can't: urgency. Someone in this manor still needs help.
+##### Class Spotlight: Wizard / Ranger
+Arcana checks on enchantments, Investigation on the sorcerer's notes and the secret passage, Survival for tracking the Kenku's path through the manor. Knowledge-oriented characters piece the story together fastest.
 }}
 
 {{pageNumber,auto}}
@@ -532,7 +535,7 @@ No dice rolls required here, just observation, inference, and emotional stakes. 
 
 ## Act 3: The Cellar Door
 
-The party finds the stairs to the cellar in the kitchen. A narrow staircase descends into darkness. At the bottom, a heavy wooden door, and sounds from beyond.
+The party reaches the cellar via whichever route they chose. A narrow staircase descends into darkness (Route A via the kitchen) or a cramped passage opens into a low-ceilinged tunnel (Route B via the study). Either way, they reach the same heavy wooden door — and sounds from beyond.
 
 {{descriptive
 ##### Read Aloud
@@ -541,15 +544,9 @@ You hear your own voice. Muffled, coming from behind the door. Words you said in
 Something is in there. And it's been listening.
 }}
 
-### The Situation
+### The Communication Puzzle
 
-The Kenku survivors (one adult and one fledgling) have been trapped in the cellar bolt-hole since the night of the break-in. The door sealed behind them when they entered. They've been silent, hoping the spectator would lose interest. Now they hear new voices above.
-
-They're terrified. They don't know if the party is here to help or to finish what the spectator started.
-
-### Communication Puzzle
-
-The party must communicate through the door. The Kenku can only respond in mimicry: sounds they've collected, voices they've heard. This is not a normal conversation.
+The Kenku survivors — one adult and one fledgling — have been trapped in the bolt-hole for nearly two days, silent, terrified. Now they hear new voices. The party must communicate through the door, but the Kenku can only respond in mimicry — sounds they've collected, voices they've heard. This is not a normal conversation.
 
 ##### What the Adult Kenku Can Use
 | Source | Examples |
@@ -589,11 +586,11 @@ Almost nothing. Chirps. Clicks. Distressed sounds. A few simple words ("no," "he
 
 {{note
 ##### Running the Kenku
-The Kenku can't answer open questions easily. They respond to yes/no questions, react to emotional tone, and tell stories through sequences of sound. If players find creative ways to communicate (writing under the door, feeding phrases to repeat back), reward it. The emotional beat matters more than the information.
+Don't try to have a normal conversation. The Kenku can't answer open questions easily. They respond to yes/no questions, react to emotional tone, and tell stories through sequences of sound.
 
-The door cannot be forced. If the players can't communicate, that's an outcome: trust stays at None and the adventure continues. The Kenku puzzle determines how hard the climax is, not whether it happens. If the spectator fight leads to a TPK, the sorcerer arrives early and intervenes.
+If players get frustrated, that's okay — so are the Kenku. If players find a creative way to communicate (writing under the door, asking only yes/no questions, feeding them phrases to repeat back), reward it.
 
-*Optional framework:* Treat the puzzle as a skill challenge. 3 successes before 2 failures, DC 12. Applicable skills: Insight, Persuasion, Performance, or any creative approach. On 3 successes: Full trust. On 1-2 before failing out: Partial. On 0: None.
+The emotional beat matters more than the information.
 }}
 
 ### The Key Moment
@@ -607,7 +604,12 @@ If the party recognizes that the Kenku came for the fledgling, if they understan
 | Confused but neutral ("We don't understand") | They keep trying, but stay guarded | Partial |
 | Recognition ("You came for the child") | A sound almost like a sob. Then: "Yes." | Full |
 
-Trust level affects the final encounter. The Kenku can help, or refuse to.
+Trust level affects the final encounter. The Kenku can help — or refuse to.
+
+{{note
+##### Class Spotlight: Bard / Cleric
+Communication, Insight, and creative social play. High-Charisma characters can read tone, build trust, and find creative workarounds for the mimicry barrier. This is *the* roleplay encounter.
+}}
 
 {{pageNumber,auto}}
 {{footnote PART 2 | THE CHAOTIC MANOR}}
@@ -616,26 +618,20 @@ Trust level affects the final encounter. The Kenku can help, or refuse to.
 
 ## Act 4: The Spectator
 
-Mid-conversation at the cellar door. The spectator descends the cellar stairs behind the party. They're caught between the sealed door and the guardian. The fight happens here, in the narrow space at the bottom of the stairs.
+The cellar door conversation is what triggers this. The Kenku mimicking the sorcerer's voice, the party talking back — it all echoes up through the stairwell. The spectator hears its master's voice *again*, and this time it comes to finish things. The party is caught between the sealed door and the guardian.
 
 {{descriptive
 ##### Read Aloud
-A voice echoes in your mind—not your ears. Telepathic. Ancient. Suspicious.
+A voice echoes in your mind — not your ears. Telepathic. Ancient. Suspicious.
 
 **"More intruders. The master's voice said many things. None of it was true. You will explain yourselves."**
 
-A floating sphere drifts down the stairs. Four eyestalks. One central eye. It's watching all of you at once.
+A floating sphere drifts down the stairs behind you. Four eyestalks. One central eye. It's watching all of you at once.
 
 **"Or you will be removed."**
 }}
 
-### The Spectator's State
-
-After the break-in, the spectator retreated to the observatory on the second floor, cycling between alertness and a low-power dormant state. The rug fight in the foyer wasn't loud enough to reach it. But the cellar door conversation, with mimicked voices echoing up through the stairwell — the sorcerer's voice, again — is what pulls it down.
-
-During the break-in, the Kenku used mimicry to survive, replaying the sorcerer's voice to confuse the spectator, to make it hesitate, to lure it away. It kept hearing its master everywhere. Commanding. Pleading. But when it followed the voice, nothing.
-
-It no longer trusts any voice. It's paranoid and aggressive.
+The spectator isn't malfunctioning — it's traumatized. Two days of Kenku mimicry (replaying the sorcerer's voice to confuse it) have left it paranoid and trusting no one.
 
 ### Combat: Confused Spectator
 
@@ -671,6 +667,13 @@ If the party attempts to negotiate before or during combat, run a skill challeng
 - **Evidence** (DC 10): Showing the dead Kenku, pointing out the timeline, demonstrating knowledge without claiming false authority
 
 **Parley does not end the fight.** Even on success, the spectator snaps (too paranoid to stand down) and attacks. But a successful parley shakes its conviction: it **starts combat with 9 fewer HP** and wastes its first turn regardless of trust level. On failure, the fight begins at full power with only trust-level modifiers.
+
+Playing the **music box** from the workshop gives advantage on one Persuasion check during parley.
+}}
+
+{{note
+##### Class Spotlight: All Classes
+This is a multi-solution encounter. Fighters can tank the eye rays, casters can counter or exploit its confusion, rogues can use evidence and Investigation, and bards/clerics can attempt parley. Every archetype has a path to contribution.
 }}
 
 {{pageNumber,auto}}
@@ -732,11 +735,12 @@ They searched the manor for hours. They found nothing that helped. The spectator
 
 The sorcerer is present. The Kenku are free. The question is what happens next. The party cannot cure the Kenku curse, but they can advocate:
 
-1. **Suggest the helm** from the sorcerer's study, connecting the dots between the telepathy helm and the Kenku curse
+1. **Suggest the helm** from the sorcerer's workshop, connecting the dots between the telepathy helm and the Kenku curse
 2. **Vouch for the Kenku** and explain what they went through, what they lost
 3. **Say nothing** and let the sorcerer decide on his own (he will help, but more slowly and cautiously)
+4. **Turn them over** to the spectator as intruders (morally ugly, but an option)
 
-Aldric has never studied the Kenku curse. But he's a brilliant enchanter, and when the party explains it, the wheels start turning.
+Aldric's own research notes (found in the study) theorize about this exact situation. When the party points this out, the wheels turn fast.
 
 When he understands why they came (for the fledgling, for hope) something shifts in his expression.
 
@@ -784,22 +788,13 @@ The party reaches **level 3**. They've completed a two-part adventure, navigated
 
 ## Part 2 Summary
 
-### Encounters
-
-| Scene | Monsters | Difficulty |
-|:------|:---------|:----------:|
-| Foyer | 1 × Weakened Rug | Easy |
-| Manor | 1 × Confused Spectator | Hard (variable) |
-
-### Key Decisions
-
-| Decision | Consequence |
-|:---------|:------------|
-| Trust the Kenku | They help in the spectator fight |
-| Fight the spectator | Hard combat, but decisive |
-| Parley with the spectator | Weakens the spectator before combat |
-| Advocate for the Kenku | Sorcerer helps them |
-| Give the fledgling the helm | Emotional climax |
+| Scene | Monsters | Difficulty | Key Decision |
+|:------|:---------|:----------:|:-------------|
+| Foyer | 1 × Weakened Rug | Easy | — |
+| Exploration | — | — | Discover clues, find helm |
+| Cellar Door | — | — | Earn Kenku trust (affects spectator fight) |
+| Spectator | 1 × Confused Spectator | Hard (variable) | Fight or parley |
+| Resolution | — | — | Advocate for Kenku, give helm → emotional climax |
 
 \column
 
@@ -809,6 +804,7 @@ The party reaches **level 3**. They've completed a two-part adventure, navigated
 | Act | Mechanic Taught |
 |:----|:----------------|
 | Part 1, Act 1 | Basic attacks, creative solutions |
+| Part 1, Act 2 | Social skills, NPC interaction |
 | Part 1, Act 3 | Saving throws, conditions |
 | Part 1, Act 4 | Multiple enemies, positioning |
 | Part 2, Act 1 | Grapple and restrain |
@@ -822,6 +818,22 @@ The party reaches **level 3**. They've completed a two-part adventure, navigated
 This adventure is built to teach: fast first combat, clear clues, escalating stakes, and a finale with multiple solutions. Keep descriptions tight, call for simple DCs, reward clever play, and let the emotional moments breathe.
 
 The sorcerer's sadness, the Kenku's desperation, and the fledgling's silence are the heart of Part 2. Don't rush them. The mechanics exist to support the story, not replace it.
+
+## Consequences and Failure
+
+Not every table reaches the best ending. The adventure's emotional impact depends on real stakes — the party's choices must matter, and that means failure is possible.
+
+### Outcome Table
+
+| Outcome | What Happens |
+|:--------|:-------------|
+| **Dark ending** | Party sides with the spectator or attacks the Kenku. The fledgling is handed over or killed. The sorcerer arrives to find the party complicit. He's horrified. No reward, no gratitude — just a quiet "Please leave my home." The quest is technically complete (enchantments stabilize) but the moral cost is clear. |
+| **Pyrrhic victory** | Party defeats the spectator but never earns Kenku trust. The Kenku flee at first opportunity, taking nothing. The sorcerer arrives, pieces together what happened, and is devastated by the missed connection. He pays the party but the emotional climax never happens. |
+| **TPK / Retreat** | The spectator drives off or kills the party. It levitates unconscious PCs outside the manor and seals the door — it "removes" intruders, it doesn't execute them. The party wakes outside at dawn, locked out, having failed. The sorcerer arrives hours later, finds the mess, and eventually discovers the Kenku himself. The resolution happens off-screen. |
+
+### Spectator Defeat Behavior
+
+If the spectator drops the entire party, it does **not** kill unconscious PCs. Its directive is to protect the manor, not to slaughter. It levitates fallen intruders outside, seals the doors, and resumes patrol. The party wakes outside at dawn with 1 HP each.
 
 {{pageNumber,auto}}
 {{footnote PART 2 | THE CHAOTIC MANOR}}
@@ -848,6 +860,19 @@ The sorcerer's sadness, the Kenku's desperation, and the fledgling's silence are
 **Voice:** Clipped sentences. Gets to the point. "That's the sorcerer's mark. Something's wrong up there. Fifty gold if you fix it."
 
 **Role:** Quest-giver in Part 1. Provides payment and closure if the party returns.
+
+:
+
+## Harlan Briggs
+*Tenant Farmer*
+
+**Appearance:** Old, stooped, sun-weathered. Calloused hands that won't stop shaking. Hauling a sack of belongings like he's never coming back.
+
+**Personality:** Stubborn, frightened, embarrassed. He's been laughed at before and doesn't want to seem foolish. But he's terrified.
+
+**Voice:** Gruff, reluctant. "I'm not drunk and I'm not crazy. I know what I saw."
+
+**Role:** NPC encounter on the road in Part 1. Provides exposition about the Kenku sighting and the sorcerer's departure. Can warn the party about the scarecrows.
 
 :
 
@@ -895,7 +920,7 @@ The sorcerer's sadness, the Kenku's desperation, and the fledgling's silence are
 
 **Appearance:** A floating sphere roughly four feet in diameter. One large central eye, four smaller eyestalks. Chitin-plated and ancient.
 
-**Personality:** Dutiful, confused, suspicious. Has served the sorcerer for thirty years. Doesn't understand why its master's voice has been lying to it.
+**Personality:** Dutiful, confused, traumatized. Has served the sorcerer for thirty years. Doesn't understand why its master's voice has been lying to it.
 
 **Voice:** Telepathic. Formal, suspicious, wounded. "The master's voice said many things. None of it was true. You will explain yourselves."
 
@@ -994,7 +1019,7 @@ The spectator isn't evil. It's been tricked, confused, and is now deeply suspici
 
 If the party attempts to reason with it, it listens, but it's been burned. Any claim to be authorized, any mention of the sorcerer's name, makes it *more* suspicious, not less.
 
-What works: Evidence. Showing it the dead Kenku. Explaining the timeline. Demonstrating that you know what happened without claiming false authority.
+What works: Evidence. Showing it the Kenku bodies. Explaining the timeline. Demonstrating that you know what happened without claiming false authority. Playing the **music box** from the workshop — the spectator recognizes the melody and becomes momentarily less hostile (advantage on one Persuasion check).
 
 What doesn't work: Lying. Claiming to speak for the sorcerer. Using the sorcerer's name as a password.
 }}
@@ -1052,7 +1077,7 @@ ___
 
 *Wondrous item, uncommon (requires attunement)*
 
-This tarnished bronze helm was collected by Aldric Vorn during his adventuring years and sat unused in his study for decades. He modified it for the Kenku fledgling.
+This tarnished bronze helm was crafted by Aldric Vorn as an experiment in mental communication. Found in a glass case in the **first-floor workshop**, it gathers dust until the party or the sorcerer realizes its potential. Aldric modifies it specifically for the Kenku fledgling during Act 5.
 
 While wearing this helm, you can use an action to cast the *detect thoughts* spell (save DC 13) from it. As long as you maintain concentration on the spell, you can use a bonus action to send a telepathic message to a creature you are focused on. It can reply (using a bonus action to do so) while your focus on it continues.
 
@@ -1108,41 +1133,38 @@ For wealthier campaigns, multiply gold values by 2-3. For lower-magic campaigns,
 
 ## Manor Overview
 
-The manor is a three-story stone building with the following general layout:
+The manor is a three-story stone building with **two routes to the cellar**. The party can explore freely; both routes converge at the cellar door.
 
 **Ground Floor:**
-- Foyer (main entrance, grand staircase, rug of smothering encounter)
-- Sitting room (ransacked, signs of Kenku search)
-- Dining room (single chair, lonely details)
-- Kitchen (cellar stairs access)
-- Study (workbench, helm in glass case)
+- **Foyer** — Main entrance, grand staircase, rug of smothering encounter
+- **Sitting room** — Ransacked, alarm-trapped drawer (DC 12 to disarm)
+- **Dining room** — Single chair (animates when sat in), lonely details
+- **Kitchen** — Enchanted kettle, cellar stairs access (**Route A** to cellar)
+- **Study** — Research notes, hidden passage behind bookcase (**Route B** to cellar, DC 14 Investigation)
 
 **First Floor:**
-- Landing overlooking foyer
-- Upper hallway (dying Kenku)
-- Workshop (half-finished projects)
-- Bedchamber (unused for years)
-- Library (magical texts)
+- **Landing** — Overlooks foyer, spectator patrol point
+- **Upper hallway** — Dying Kenku
+- **Workshop** — Helm of Telepathy in glass case, music box (DC 13 Arcana), half-finished projects
+- **Bedchamber** — Unused for years
+- **Library** — Magical texts
 
 **Second Floor:**
-- Observatory (spectator's patrol route)
-- Storage rooms
-- Roof access
+- Observatory, storage rooms, roof access
 
 **Cellar:**
-- Bolt-hole (Kenku survivors)
-- Emergency supplies
-- Sealed from inside until opened externally
+- Bolt-hole (Kenku survivors), emergency supplies
+- Accessible via kitchen stairs (Route A) or study secret passage (Route B)
 
 {{note
 ##### Map Suggestions
 For battle maps, you'll need:
-1. **Village festival square:** Open area with market stalls, tables, a central stage
-2. **Manor gate:** Iron gate, gravel path, stone walls
-3. **Manor foyer:** Grand entrance with twin staircases, ornate rug in center
-4. **Cellar stairs:** Narrow staircase, heavy door at bottom
+1. **Village festival square** — Open area with stalls, tables, central stage
+2. **Manor gate** — Iron gate, gravel path, stone walls
+3. **Manor foyer** — Grand entrance with twin staircases, rug in center
+4. **Kitchen / cellar stairs** — Route A to cellar door
 
-For theater of the mind, focus on relative positions: the rug is *in the center*, the stairs are *behind it*, the doors lead *left and right*.
+For theater of the mind, emphasize the **two paths**: left from the foyer leads through the dining room to the kitchen (Route A); right leads to the study and the hidden passage (Route B).
 }}
 
 \column
@@ -1150,25 +1172,24 @@ For theater of the mind, focus on relative positions: the rug is *in the center*
 ## Encounter Maps
 
 ### Festival Square
-The village festival takes place in the central square. Key features:
 - Market stalls around the perimeter
 - Central stage for contests
 - Tables and benches scattered throughout
 - Multiple exit points (alleys, main road)
 
 ### Manor Grounds
-The road from the village leads through:
 - Apple orchards (scarecrow encounter)
 - Open fields with scattered scarecrows
 - Stone wall surrounding the manor
 - Iron gate (gate guardian encounter)
 
-### Manor Interior
-The foyer serves as the main exploration hub:
-- 40 ft. × 30 ft. main room
+### Manor Interior — Branching Layout
+The foyer is the central hub (40 ft. × 30 ft.):
 - Twin curved staircases to the first floor landing
-- Hallways leading to other ground floor rooms
+- **Left hallway** → Dining room → Kitchen → Cellar stairs (Route A)
+- **Right hallway** → Study → Secret passage → Cellar (Route B)
 - Ornate (hostile) rug in the center
+- Upstairs: landing → hallway → workshop (Helm of Telepathy)
 
 {{pageNumber,auto}}
 {{footnote APPENDIX D | MAPS}}
@@ -1179,9 +1200,13 @@ The foyer serves as the main exploration hub:
 
 ## Running the Kenku
 
-See the note box in Act 3 for core guidance on the communication puzzle. Additional tips:
+The Kenku communication puzzle is the heart of Part 2's emotional core. Some guidance:
+
+**Don't try to have a normal conversation.** The Kenku can't answer open questions easily. They respond to yes/no questions, react to emotional tone, and tell stories through sequences of sound.
 
 **Use sounds from earlier in the session.** If a player said something memorable in the foyer, have the Kenku replay it. This makes the mimicry feel immediate and real.
+
+**Reward creative communication.** If players find inventive ways to communicate (writing under the door, asking only yes/no questions, feeding phrases to repeat back), let it work.
 
 **The emotional beat matters more than the information.** The party doesn't need to understand every detail of the Kenku's story. They need to understand: these are desperate people who came to save a child.
 
@@ -1216,7 +1241,8 @@ See the note box in Act 3 for core guidance on the communication puzzle. Additio
 | Act | Target Time | Notes |
 |:----|:-----------:|:------|
 | Festival + Brooms | 30-40 min | Let players establish characters |
-| Road + Scarecrow | 20-30 min | Can compress if running long |
+| Road (Harlan Briggs) | 10-15 min | Social encounter, clues |
+| Scarecrow | 15-20 min | Combat, can compress if long |
 | Gate Encounter | 20-30 min | Full combat |
 | Lockdown Scene | 15-20 min | Atmosphere, no dice |
 | **Total** | **2.5-3 hours** | |
@@ -1226,7 +1252,7 @@ See the note box in Act 3 for core guidance on the communication puzzle. Additio
 | Act | Target Time | Notes |
 |:----|:-----------:|:------|
 | Foyer + Rug | 15-20 min | Quick combat |
-| Exploration | 10-15 min | Can expand with roleplay |
+| Exploration (both floors) | 15-25 min | Interactive rooms, roaming spectator |
 | Cellar Door Puzzle | 20-30 min | The heart of Part 2 |
 | Spectator | 20-30 min | Combat or skill challenge |
 | Resolution | 15-20 min | Let it breathe |
@@ -1244,10 +1270,37 @@ Check in with your players if any of these themes are sensitive.
 
 If the scarecrows feel too creepy, swap them for animated festival dolls (use the same stat block). If the dying Kenku scene is too dark, have it already dead when the party arrives and let players infer the rest.
 
-The fledgling survives. That's non-negotiable. Whatever else happens, she makes it out. Some stories need a win.
+The fledgling's survival is the emotional heart of this adventure. If the party's choices put her in danger, consider having the adult Kenku sacrifice herself to protect the fledgling — one more death to weigh on the party's conscience. A DM who wants a darker tone can let the consequences play out, but be aware this changes the adventure's emotional register significantly.
 
 {{pageNumber,auto}}
 {{footnote APPENDIX E | DM GUIDANCE}}
+
+\page
+
+# Appendix F: Legal
+
+## System Reference Document
+
+This adventure is designed for use with the fifth edition of the world's greatest roleplaying game. It uses rules and creature stat blocks available in the System Reference Document (SRD 5.1) published under the Creative Commons license (CC-BY-4.0) by Wizards of the Coast.
+
+**Creatures used from the SRD:** Animated Armor, Flying Sword, Rug of Smothering, Scarecrow, Spectator. The Spectator is derived from the Beholder family but is included in the SRD and is available for use under the CC-BY-4.0 license.
+
+## Licensing
+
+This work is published under the **Creative Commons Attribution 4.0 International License (CC-BY-4.0)**, consistent with the SRD 5.1 license terms. You are free to share and adapt this material for any purpose, including commercially, as long as you provide attribution.
+
+If distributing on **DMs Guild**, note that DMs Guild has its own license terms that supersede CC-BY-4.0 for content published on that platform. Review their Community Content Agreement before publishing.
+
+## Art Disclosure
+
+All artwork in this adventure is **AI-generated**. Some publishing platforms (including DMs Guild and DriveThruRPG) have specific policies regarding AI-generated art. Review the relevant platform's policies before publishing with these images, and consider commissioning original art for commercial distribution.
+
+## Attribution
+
+*When the Sorcerer's Away* uses material from the Systems Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC, available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License.
+
+{{pageNumber,auto}}
+{{footnote APPENDIX F | LEGAL}}
 
 \page
 

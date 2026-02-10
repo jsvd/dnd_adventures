@@ -13,7 +13,7 @@ ___
 For the world's greatest roleplaying game
 }}
 
-![cover image](images/cover.png){position:absolute,top:0,left:0,height:100%}
+![cover image](https://raw.githubusercontent.com/jsvd/dnd_adventures/main/images/cover.png){position:absolute,top:0,left:0,height:100%}
 
 \page
 
@@ -107,7 +107,7 @@ Now it's hunting. It's also confused. It doesn't know what to trust. If it hears
 # Part 1:
 # Festival in Chaos
 
-![Part 1 cover](images/part1_cover.png){position:absolute,top:0,left:0,width:100%}
+![Part 1 cover](https://raw.githubusercontent.com/jsvd/dnd_adventures/main/images/part1_cover.png){position:absolute,top:0,left:0,width:100%}
 
 {{pageNumber,auto}}
 
@@ -400,7 +400,7 @@ The party reaches **level 2**. They've completed a long rest. They enter fresh, 
 # Part 2:
 # The Chaotic Manor
 
-![Part 2 cover](images/part2_cover.png){position:absolute,top:0,left:0,width:100%}
+![Part 2 cover](https://raw.githubusercontent.com/jsvd/dnd_adventures/main/images/part2_cover.png){position:absolute,top:0,left:0,width:100%}
 
 {{pageNumber,auto}}
 
